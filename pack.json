@@ -13,4 +13,18 @@
         "override-options": {}
  
     }
+    {
+        "id": "sevtech_ages",
+        "version": "1.3",
+        "name": "Factions",
+        "desc": "This pack provides utility such as Schematic sharing, Faction Member Locations, PVP Pings, Custom CSS Based HUD for clean animated HUD's, Raiding Utilities, And so much more to make your faction experience absolutely one of a kind.",
+        "creator": "JonahTheEngi (AtlasPvp Developer)",
+        "type": "fabric",
+        "mcVersion": "1.19.4",
+        "icon": "",
+        "bg-picture": "https://i.imgur.com/bQNeICj.png",
+        "override": false,
+        "override-options": {}
+ 
+    }
 ]
