@@ -13,16 +13,16 @@
         "override-options": {}
  
     },
-    {
+	{
         "id": "hexxit-updated",
-        "version": "1.3",
-        "name": "Factions",
-        "desc": "This pack provides utility such as Schematic sharing, Faction Member Locations, PVP Pings, Custom CSS Based HUD for clean animated HUD's, Raiding Utilities, And so much more to make your faction experience absolutely one of a kind.",
-        "creator": "JonahTheEngi (AtlasPvp Developer)",
-        "type": "fabric",
-        "mcVersion": "1.19.4",
-        "icon": "",
-        "bg-picture": "https://i.imgur.com/bQNeICj.png",
+        "version": "1.4.1",
+        "name": "Hexxit+",
+        "desc": "Reminisce the feeling of exploring (and fearing) the world of Minecraft with your friends? Hexxit+ consists of not only mods from the original Hexxit.",
+        "creator": "HaoShern (Suggested by Hannok and LarioXD)",
+        "type": "forge",
+        "mcVersion": "1.12.2",
+        "icon": "http://i.imgur.com/sGX6flO.png",
+        "bg-picture": "https://cdn.technicpack.net/platform2/pack-backgrounds/552552.jpg",
         "override": false,
         "override-options": {}
  
