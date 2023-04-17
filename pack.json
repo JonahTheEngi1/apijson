@@ -15,9 +15,9 @@
     },
 	{
         "id": "hexxit-updated",
-        "version": "1.4.1",
+        "version": "1.3.0",
         "name": "Factions",
-        "desc": "Reminisce the feeling of exploring (and fearing) the world of Minecraft with your friends? Hexxit+ consists of not only mods from the original Hexxit.",
+        "desc": "Experience Factions in a new mordern way, This pack includes so many quality of life features that ever factions player will love to use like: Raid Utils, CSS Based HUD's, Faction Member Status HUD, PVP Pings, And so much more.",
         "creator": "HaoShern (Suggested by Hannok and LarioXD)",
         "type": "forge",
         "mcVersion": "1.12.2",
